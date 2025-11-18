@@ -13,9 +13,7 @@
   />
 </div>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=neoclesap&label=Visualizações%20no%20perfil&color=0e75b6&style=flat" alt="neoclesap" />
-</p>
+
 
 - 🔭 Atualmente, eu trabalho na FAI - UFSCar (https://fai.ufscar.br/).
 
