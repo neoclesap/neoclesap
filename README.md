@@ -1,4 +1,8 @@
-https://api.iconify.design/twemoji:man-coffee.svg
+<div align="center">
+    <img src="https://i.imgur.com/9Z2Qk5M.png" 
+         alt="Idoso simpático tomando café" 
+         height="200">
+</div>
 <div align=center>
     <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Front-End+Engineer;Bacharel+Ciência+da+Computação;Pós-Graduando+em+Front-End;" alt="Headline" />
 </div>
