@@ -6,7 +6,7 @@
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?color=%236FDA44&size=32&center=true&vCenter=true&width=800&height=50&lines=Interessado+em+Intelig%C3%AAncia+Artificial+Aplicada;Opera%C3%A7%C3%B5es+de+Funda%C3%A7%C3%B5es+de+Apoio"
+    src="https://readme-typing-svg.demolab.com?color=%236FDA44&size=32&center=true&vCenter=true&width=800&height=50&lines=IInteressado+em+Intelig%C3%AAncia+Artificial+Aplicada;Opera%C3%A7%C3%B5es+de+Funda%C3%A7%C3%B5es+de+Apoio"
     alt="Headline"
   />
 </div>
