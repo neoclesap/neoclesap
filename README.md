@@ -6,10 +6,11 @@
 <h1 align="center">Olá 👋, Eu sou Néocles</h1>
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?color=%236FDA44&size=32&center=true&vCenter=true&width=800&height=50&lines=IInteressado+em;Intelig%C3%AAncia+Artificial+Aplicada;Opera%C3%A7%C3%B5es+de+Funda%C3%A7%C3%B5es+de+Apoio (L.8958)"
+    src="https://readme-typing-svg.demolab.com?color=%236FDA44&size=32&center=true&vCenter=true&width=850&height=55&lines=Interessado+em+Intelig%C3%AAncia+Artificial+Aplicada;Opera%C3%A7%C3%B5es+de+Funda%C3%A7%C3%B5es+de+Apoio+(Lei+8958)"
     alt="Headline"
   />
 </div>
+
 
 
 <h3 align="center">Superintendente, residente em São Carlos-SP/Brasil.</h3>
