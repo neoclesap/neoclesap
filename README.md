@@ -3,7 +3,7 @@
        alt="Idoso simpático tomando café"
        height="200">
 </div>
-<h1 align="center">Olá 👋, Eu sou Néocles</h1>
+<h1 align="center">Olá 👋, eu sou Néocles</h1>
 <h3 align="center">Superintendente, residente em São Carlos-SP/Brasil.</h3>
 <p align="center">Professor universitário aposentado</p>
 <div align="center">
