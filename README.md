@@ -1,11 +1,8 @@
 <div align="center">
-    <img src="./assets/elder-coffee.png" 
-         alt="Idoso simpático tomando café" 
-         height="200">
+  <img src="./assets/elder-coffee.png" alt="Idoso simpático tomando café" height="200">
 </div>
-
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Front-End+Engineer;Bacharel+Ciência+da+Computação;Pós-Graduando+em+Front-End;" alt="Headline" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Interessado em Inteligência Artificial Aplicada; Operações de FUndações de Apoio" alt="Headline" />
 </div>
 
 <h1 align="center">Olá 👋, Eu sou Néocles</h1>
