@@ -1,6 +1,9 @@
 <div align="center">
-  <img src="./assets/elder-coffee.png" alt="Idoso simpático tomando café" height="200">
+  <img src="https://raw.githubusercontent.com/neoclesap/neoclesap/main/assets/idoso_cafe.png"
+       alt="Idoso simpático tomando café"
+       height="200">
 </div>
+
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Interessado em Inteligência Artificial Aplicada; Operações de FUndações de Apoio" alt="Headline" />
 </div>
